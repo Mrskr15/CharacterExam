@@ -1246,7 +1246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   horizontalMove: 0
   verticalMove: 0
-  player: {fileID: 0}
+  player: {fileID: 1764064053}
   playerSpeed: 3
   gravity: 9.8
   fallVelocity: 0
